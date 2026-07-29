@@ -316,7 +316,10 @@ namespace RandomSpellMerchantPatcher
             string[] additionalConjuration00RareEditorIDs =
             {
                 "SpellTomeBoundWoodaxe",
-                "SpellTomeBoundPickaxe"
+                "SpellTomeBoundPickaxe",
+                "SpellTomeBoundClawLeft",
+                "SpellTomeBoundClawRight",
+                "SpellTomeBoundRapier"
                 // Add additional spell tome BOOK editor IDs here.
             };
             string[] additionalConjuration00VeryRareEditorIDs =
@@ -514,6 +517,7 @@ namespace RandomSpellMerchantPatcher
             };
             string[] additionalRestoration25CommonEditorIDs =
             {
+                "VTR_MAG_SpellTomeSunlightRune",
                 // Add additional spell tome BOOK editor IDs here.
             };
             string[] additionalRestoration25RareEditorIDs =
@@ -526,6 +530,7 @@ namespace RandomSpellMerchantPatcher
             };
             string[] additionalRestoration50CommonEditorIDs =
             {
+                "VTR_MAG_SpellTomeRepelUndead",
                 // Add additional spell tome BOOK editor IDs here.
             };
             string[] additionalRestoration50RareEditorIDs =
@@ -2264,6 +2269,7 @@ namespace RandomSpellMerchantPatcher
             string[] mysticismConjuration100CommonEditorIDs =
             {
                 "MAG_SpellTomeExpelDaedra",
+                "MAG_SpellTomeDeadThrall"
                 // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration100RareEditorIDs =
@@ -2710,6 +2716,9 @@ namespace RandomSpellMerchantPatcher
             {
                     "MAG_SpellTomeVampiricBolt",
                     "MAG_SpellTomeVampiricTouch",
+                    "MAG_SpellTomeDrainLife",
+                    "MAG_SpellTomeDrainMagicka",
+                    "MAG_SpellTomeDrainStamina",
             };
 
             string[] mysticismVampireDestruction75EditorIDs =
@@ -4717,9 +4726,9 @@ namespace RandomSpellMerchantPatcher
             };
             string[] triumvirateAlteration25VeryRareEditorIDs =
             {
-                "TVR_Druid_A050_Book_Wildshape",
-                "TVR_Shadow_A050_Book_ShadowDance",
-                "TVR_Shaman_A050_Book_Fissure",
+                "TVR_Druid_A025_Book_ForceOfNature",
+                "TVR_Shadow_A025_Book_StepThroughShadows",
+                "TVR_Shaman_A025_Book_StaveFerocity",
                 // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration50CommonEditorIDs =
