@@ -563,7 +563,7 @@ namespace RandomSpellMerchantPatcher
 
 
             // Vanilla spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] vanillaAllSpells00CommonEditorIDs =
             {
@@ -577,18 +577,18 @@ namespace RandomSpellMerchantPatcher
                 "SpellTomeCourage",
                 "SpellTomeHealing",
                 "SpellTomeLesserWard",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells00RareEditorIDs =
             {
                 "SpellTomeRaiseZombie",
                 "SpellTomeFury",
                 "SpellTomeClairvoyance",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells25CommonEditorIDs =
             {
@@ -605,7 +605,7 @@ namespace RandomSpellMerchantPatcher
                 "SpellTomeTurnLesserUndead",
                 "SpellTomeSteadfastWard",
 
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells25RareEditorIDs =
             {
@@ -616,47 +616,47 @@ namespace RandomSpellMerchantPatcher
                 "SpellTomeFear",
                 "SpellTomeMuffle",
                 "SpellTomeShockRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Vanilla - Alteration
@@ -665,74 +665,74 @@ namespace RandomSpellMerchantPatcher
             {
                 "SpellTomeCandlelight",
                 "SpellTomeOakflesh",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration00RareEditorIDs =
             {
 
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration25CommonEditorIDs =
             {
                 "SpellTomeMagelight",
                 "SpellTomeStoneflesh",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration50CommonEditorIDs =
             {
                 "SpellTomeDetectLife",
                 "SpellTomeIronflesh",
                 "SpellTomeWaterbreathing",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration50RareEditorIDs =
             {
                 "SpellTomeTelekinesis",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration75CommonEditorIDs =
             {
                 "SpellTomeDetectUndead",
                 "SpellTomeEbonyflesh",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration75RareEditorIDs =
             {
                 "SpellTomeParalyze"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration100CommonEditorIDs =
             {
                 "SpellTomeMassParalysis"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -742,32 +742,32 @@ namespace RandomSpellMerchantPatcher
             {
                 "SpellTomeConjureFamiliar",
                 "SpellTomeBoundSword",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration00RareEditorIDs =
             {
                 "SpellTomeRaiseZombie",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration25CommonEditorIDs =
             {
                 "SpellTomeBoundBattleaxe",
                 "SpellTomeConjureFlameAtronach",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration25RareEditorIDs =
             {
                 "SpellTomeReanimateCorpse",
                 "SpellTomeSoulTrap",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration50CommonEditorIDs =
             {
@@ -775,48 +775,48 @@ namespace RandomSpellMerchantPatcher
                 "SpellTomeBoundBow",
                 "SpellTomeConjureFrostAtronach",
 
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration50RareEditorIDs =
             {
                 "SpellTomeRevenant",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration75CommonEditorIDs =
             {
                 "SpellTomeConjureStormAtronach",
                 "SpellTomeExpelDaedra"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration75RareEditorIDs =
             {
                 "SpellTomeDreadZombie",
                 "SpellTomeCommandDaedra",
                 "SpellTomeConjureDremoraLord",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration100CommonEditorIDs =
             {
                 "SpellTomeFrostThrall",
                 "SpellTomeStormThrall"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration100RareEditorIDs =
             {
                 "SpellTomeDeadThrall",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaConjuration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -827,86 +827,85 @@ namespace RandomSpellMerchantPatcher
                 "SpellTomeFlames",
                 "SpellTomeFrostbite",
                 "SpellTomeSparks"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction00VeryRareEditorIDs =
             {
 
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction25CommonEditorIDs =
             {
                 "SpellTomeFirebolt",
                 "SpellTomeIceSpike",
                 "SpellTomeLightningBolt",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction25RareEditorIDs =
             {
                 "SpellTomeFireRune",
                 "SpellTomeFrostRune",
                 "SpellTomeShockRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction50CommonEditorIDs =
             {
                 "SpellTomeChainLightning",
                 "SpellTomeFireball",
                 "SpellTomeIceStorm"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction50RareEditorIDs =
             {
                 "SpellTomeFlameCloak",
                 "SpellTomeFrostCloak",
                 "SpellTomeLightningCloak",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction75CommonEditorIDs =
             {
                 "SpellTomeIcySpear",
                 "SpellTomeIncinerate",
                 "SpellTomeThunderbolt",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction75RareEditorIDs =
             {
                 "SpellTomeWallOfFlames",
                 "SpellTomeWallOfFrost",
                 "SpellTomeWallOfStorms",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction100CommonEditorIDs =
             {
                 "SpellTomeBlizzard",
                 "SpellTomeLightningStorm",
                 "SpellTomeFireStorm"
-                // TODO: Locate the master-level fire spell tome.
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaDestruction100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -916,75 +915,75 @@ namespace RandomSpellMerchantPatcher
             {
                 "SpellTomeCourage",
                 "SpellTomeFury",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion00RareEditorIDs =
             {
                 "SpellTomeClairvoyance",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion25CommonEditorIDs =
             {
                 "SpellTomeCalm",
                 "SpellTomeMuffle",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion25RareEditorIDs =
             {
                 "SpellTomeFear",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion50CommonEditorIDs =
             {
                 "SpellTomeRally"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion50RareEditorIDs =
             {
                 "SpellTomeFrenzy",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion75CommonEditorIDs =
             {
                 "SpellTomePacify",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion75RareEditorIDs =
             {
                 "SpellTomeInvisibility",
                 "SpellTomeRout",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion100CommonEditorIDs =
             {
                 "SpellTomeHarmony",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion100RareEditorIDs =
             {
                 "SpellTomeMayhem",
                 "SpellTomeCallToArms",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaIllusion100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -994,15 +993,15 @@ namespace RandomSpellMerchantPatcher
             {
                 "SpellTomeHealing",
                 "SpellTomeLesserWard",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration25CommonEditorIDs =
             {
@@ -1010,15 +1009,15 @@ namespace RandomSpellMerchantPatcher
                 "SpellTomeHealingHands",
                 "SpellTomeTurnLesserUndead",
                 "SpellTomeSteadfastWard",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration50CommonEditorIDs =
             {
@@ -1027,15 +1026,15 @@ namespace RandomSpellMerchantPatcher
                 "SpellTomeRepelLesserUndead",
                 "SpellTomeTurnUndead",
                 "SpellTomeGreaterWard"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration75CommonEditorIDs =
             {
@@ -1043,28 +1042,28 @@ namespace RandomSpellMerchantPatcher
                 "SpellTomeGrandHealing",
                 "SpellTomeRepelUndead",
                 "SpellTomeTurnGreaterUndead",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration100CommonEditorIDs =
             {
                 "SpellTomeGuardianCircle"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] vanillaRestoration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Vampire and vampire hunter lists.
@@ -1314,8 +1313,8 @@ namespace RandomSpellMerchantPatcher
 
             string[] talvasVanillaDestruction25EditorIDs =
             {
-                "DLC2SpellTomeFrenzyRune", //definitly not destruction but dont feel like reworking lists
-                "DLC2SpellTomePoisonRune" // same here gonna need to re work
+                "DLC2SpellTomeFrenzyRune", // Uses Talvas's custom mixed-school pool.
+                "DLC2SpellTomePoisonRune" 
                 // Add spell tome BOOK editor IDs here.
             };
 
@@ -1336,16 +1335,16 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Anniversary / Creation Club spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] ccAllSpells00CommonEditorIDs =
             {
                 
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells00VeryRareEditorIDs =
             {
@@ -1354,15 +1353,15 @@ namespace RandomSpellMerchantPatcher
                 "ccVSVSSE003_BOOK_UndyingGhost",
                 "ccBGSSSE014_SpellTome_Dest_Absorb01_ChokingGrasp",
                 "ccBGSSSE014_SpellTome_Dest_Elemental01Flare"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells25VeryRareEditorIDs =
             {
@@ -1372,108 +1371,108 @@ namespace RandomSpellMerchantPatcher
                 "ccVSVSSE003_BOOK_SoulSplit",
                 "ccBGSSSE014_SpellTome_Dest_Absorb02_Strangulation",
                 "ccBGSSSE014_SpellTome_Dest_Elemental02Bolt",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Anniversary / Creation Club - Alteration
 
             string[] ccAlteration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration50VeryRareEditorIDs =
             {
                 "ccBGSSSE014_SpellTome_Alter_ParalysisRune",
                 "ccKRTSSE001_SpellTomeTransmuteOreMineral"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -1481,26 +1480,26 @@ namespace RandomSpellMerchantPatcher
 
             string[] ccConjuration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration00VeryRareEditorIDs =
             {
                 "ccBGSSSE003_ConjureZombie01",
                 "ccVSVSSE003_BOOK_SkeletonMinion",
                 "ccVSVSSE003_BOOK_UndyingGhost",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration25VeryRareEditorIDs =
             {
@@ -1508,15 +1507,15 @@ namespace RandomSpellMerchantPatcher
                 "ccVSVSSE003_BOOK_HauntingSpirit",
                 "ccVSVSSE003_BOOK_SkeletonMarksman",
                 "ccVSVSSE003_BOOK_SoulSplit",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration50VeryRareEditorIDs =
             {
@@ -1526,15 +1525,15 @@ namespace RandomSpellMerchantPatcher
                 "ccVSVSSE003_BOOK_NecroRitual",
                 "ccVSVSSE003_BOOK_SkeletonChampion",
                 "ccVSVSSE003_BOOK_TombGuardian"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration75VeryRareEditorIDs =
             {
@@ -1543,74 +1542,74 @@ namespace RandomSpellMerchantPatcher
                 "ccBGSSSE067_ConjureAyleidLichTome",
                 "ccVSVSSE003_BOOK_Gloomwraith",
                 "ccVSVSSE003_BOOK_SkeletonWarlock"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccConjuration100VeryRareEditorIDs =
             {
                 "ccVSVSSE003_BOOK_AncientLich",
                 "ccVSVSSE003_BOOK_BoneColossus"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Anniversary / Creation Club - Destruction
 
             string[] ccDestruction00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction00VeryRareEditorIDs =
             {
                 "ccBGSSSE014_SpellTome_Dest_Elemental01Flare",
                 "ccBGSSSE014_SpellTome_Dest_Absorb01_ChokingGrasp",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction25VeryRareEditorIDs =
             {
                 "ccBGSSSE014_SpellTome_Dest_Absorb02_Strangulation",
                 "ccBGSSSE014_SpellTome_Dest_Elemental02Bolt"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction50RareEditorIDs =
             {   
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction50VeryRareEditorIDs =
             {
                 "ccBGSSSE014_SpellTome_Dest_Absorb03_HangmansNoose",
                 "ccBGSSSE014_SpellTome_Dest_Elemental03Burst",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction75VeryRareEditorIDs =
             {
@@ -1620,19 +1619,19 @@ namespace RandomSpellMerchantPatcher
                 "ccBGSSSE014_SpellTome_Dest_UnboundedFire",
                 "ccBGSSSE014_SpellTome_Dest_UnboundedIce",
                 "ccBGSSSE014_SpellTome_Dest_UnboundedLightning"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccDestruction100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -1640,65 +1639,65 @@ namespace RandomSpellMerchantPatcher
 
             string[] ccIllusion00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion50VeryRareEditorIDs =
             {
                 "ccBGSSSE014_SpellTome_Illus_Adept_OrumsAquaticEscape",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion75VeryRareEditorIDs =
             {
                 "ccBGSSSE014_SpellTome_Alter_FenriksWelcome"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccIllusion100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -1706,63 +1705,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] ccRestoration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] ccRestoration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -1934,7 +1933,7 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Mysticism spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] mysticismAllSpells00CommonEditorIDs =
             {
@@ -1954,7 +1953,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeLesserWard",
                 "MAG_SpellTomeSunbeam",
                 "MAG_SpellTomeTurnLesserUndead",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells00RareEditorIDs =
             {
@@ -1963,11 +1962,11 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeConjureSkeleton",
                 "MAG_SpellTomeFrenzy",
                 "MAG_SpellTomePoisonSpray",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells25CommonEditorIDs =
             {
@@ -1997,7 +1996,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeSunFire",
                 "MAG_SpellTomeSunlightTouch",
                 "MAG_SpellTomeTurnUndead"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells25RareEditorIDs =
             {
@@ -2019,48 +2018,48 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeSunlightRune",
                 "MAG_SpellTomeRegeneration",
 
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells25VeryRareEditorIDs =
             {
                 "MAG_SpellTomePoisonRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Mysticism - Alteration
@@ -2070,16 +2069,16 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeCandlelight",
                 "MAG_SpellTomeOakflesh",
                 "MAG_SpellTomeWaterBreathing"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration00RareEditorIDs =
             {
                 "MAG_SpellTomeOpenNoviceLock",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration25CommonEditorIDs =
             {
@@ -2088,18 +2087,18 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeMagelight",
                 "MAG_SpellTomeStoneflesh",
                 "MAG_SpellTomeSwiftSwim",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration25RareEditorIDs =
             {
                 "MAG_SpellTomeDispel",
                 "MAG_SpellTomeOpenApprenticeLock",
                 "MAG_SpellTomeWindwalker"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration50CommonEditorIDs =
             {
@@ -2111,7 +2110,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeOpenAdeptLock",
                 "MAG_SpellTomeSeaStride",
                 "MAG_SpellTomeSlowfall",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration50RareEditorIDs =
             {
@@ -2122,11 +2121,11 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomePoisonShell",
                 "MAG_SpellTomeDisintegrateWeapon",
                 "MAG_SpellTomeCorrodeArmor",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration75CommonEditorIDs =
             {
@@ -2135,7 +2134,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeLeap",
                 "MAG_SpellTomePackMule",
                 "MAG_SpellTomeBurdenRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration75RareEditorIDs =
             {
@@ -2145,12 +2144,12 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeWeaknesstoShock",
                 "MAG_SpellTomeWindrunner",
                 "MAG_SpellTomeOpenExpertLock",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration75VeryRareEditorIDs =
             {
                 "MAG_SpellTomeAshCloud",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration100CommonEditorIDs =
             {
@@ -2162,7 +2161,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeLightningShield",
                 "MAG_SpellTomeSwordBreaker",
                 "MAG_SpellTomeVenomShield",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration100RareEditorIDs =
             {
@@ -2171,11 +2170,11 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeTheUnwelcomeGuest",
                 "MAG_SpellTomeSpringheel",
                 "MAG_SpellTomeGrandTelekinesis",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -2186,17 +2185,17 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeBoundDagger",
                 "MAG_SpellTomeConjureSpectralWolf",
                 "MAG_SpellTomeSoulTrap"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration00RareEditorIDs =
             {
                 "MAG_SpellTomeRaiseZombie",
                 "MAG_SpellTomeConjureSkeleton",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration25CommonEditorIDs =
             {
@@ -2205,18 +2204,18 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeBoundSword",
                 "MAG_SpellTomeBoundWarAxe",
                 "MAG_SpellTomeConjureSpectralDireWolf",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration25RareEditorIDs =
             {
                 "MAG_SpellTomeConjureSkeletonArcher",
                 "MAG_SpellTomeReanimateCorpse",
                 "MAG_SpellTomeConjureFlameAtronach",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration50CommonEditorIDs =
             {
@@ -2227,7 +2226,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeBoundWarhammer",
                 "MAG_SpellTomeConjureSpectralSabreCat",
                 "MAG_SpellTomeConjureFrostAtronach",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration50RareEditorIDs =
             {
@@ -2236,36 +2235,36 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeRevenant",
                 "MAG_SpellTomeSoulHarvest",
                 "MAG_SpellTomeDaedricCure",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration50VeryRareEditorIDs =
             {
                 "MAG_SpellTomeConjureSpectralSteed",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration75CommonEditorIDs =
             {
                 "MAG_SpellTomeConjureSpectralBear",
                 "MAG_SpellTomeConjureStormAtronach",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration75RareEditorIDs =
             {
                 "MAG_SpellTomeConjureDremoraWarlock",
                 "MAG_SpellTomeConjureSkeletonWarrior",
                 "MAG_SpellTomeDreadZombie",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration75VeryRareEditorIDs =
             {
                 "MAG_SpellTomeMark",
                 "MAG_SpellTomeRecall"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration100CommonEditorIDs =
             {
                 "MAG_SpellTomeExpelDaedra",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration100RareEditorIDs =
             {
@@ -2273,14 +2272,14 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeConjureFlameMonarch",
                 "MAG_SpellTomeConjureFrostMonarch",
                 "MAG_SpellTomeConjureStormMonarch",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismConjuration100VeryRareEditorIDs =
             {
                 "MAG_SpellTomeOblivionsEmbrace",
                 "MAG_SpellTomeConjureSpectralManbeast",
                 "MAG_SpellTomeConjureSkeletonChampion",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -2291,15 +2290,15 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeFlames",
                 "MAG_SpellTomeFrostbite",
                 "MAG_SpellTomeSparks",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction25CommonEditorIDs =
             {
@@ -2309,18 +2308,18 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeIceSpike",
                 "MAG_SpellTomeLightningBolt",
                 "MAG_SpellTomeShockingTouch"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction25RareEditorIDs =
             {
                 "MAG_SpellTomeFireRune",
                 "MAG_SpellTomeFrostRune",
                 "MAG_SpellTomeLightningRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction50CommonEditorIDs =
             {
@@ -2330,7 +2329,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeGreaterSparks",
                 "MAG_SpellTomeIcyTouch",
                 "MAG_SpellTomeStaticTouch",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction50RareEditorIDs =
             {
@@ -2339,14 +2338,14 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeLightningCloak",
                 "MAG_SpellTomeFrostCloak",
                 "MAG_SpellTomeFlameCloak",
-                "MAG_SpellTomeIceStorm" // maybe
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                "MAG_SpellTomeIceStorm" 
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction50VeryRareEditorIDs =
             {
                 "MAG_SpellTomeVampiricBolt",
                 "MAG_SpellTomeVampiricTouch"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction75CommonEditorIDs =
             {
@@ -2357,7 +2356,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeIncinerate",
                 "MAG_SpellTomeThunderbolt",
                 "MAG_SpellTomeThunderingGrasp",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction75RareEditorIDs =
             {
@@ -2367,21 +2366,21 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeWallOfFlames",
                 "MAG_SpellTomeWallOfFrost",
                 "MAG_SpellTomeWallOfStorms"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction75VeryRareEditorIDs =
             {
                 "MAG_SpellTomeVampiricBlast",
                 "MAG_SpellTomeVampiricGrasp",
                 "MAG_SpellTomeVampiricRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction100CommonEditorIDs =
             {
                 "MAG_SpellTomeBlizzard",
                 "MAG_SpellTomeFireStorm",
                 "MAG_SpellTomeLightningStorm",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction100RareEditorIDs =
             {
@@ -2391,14 +2390,14 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeFlashFreeze",
                 "MAG_SpellTomeHoarfrost",
                 "MAG_SpellTomeImmolate",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismDestruction100VeryRareEditorIDs =
             {
                 "MAG_SpellTomeThroatoftheWorld",
                 "MAG_SpellTomeFingeroftheMountain",
                 "MAG_SpellTomeElectrocute",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -2410,41 +2409,41 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeClairvoyance",
                 "MAG_SpellTomeCourage",
 
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion00RareEditorIDs =
             {
                 "MAG_SpellTomeFrenzy",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion25CommonEditorIDs =
             {
                 "MAG_SpellTomeNighteye",
                 "MAG_SpellTomeSoothe",
                 "MAG_SpellTomeSilence",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion25RareEditorIDs =
             {
                 "MAG_SpellTomeMuffle",
                 "MAG_SpellTomeFury",
                 "MAG_SpellTomeFear",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion50CommonEditorIDs =
             {
                 "MAG_SpellTomeCommand",
                 "MAG_SpellTomeHush",
                 "MAG_SpellTomePacify",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion50RareEditorIDs =
             {
@@ -2452,12 +2451,12 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomePanic",
                 "MAG_SpellTomeRage",
                 "MAG_SpellTomeShroud"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion50VeryRareEditorIDs =
             {
                 "MAG_SpellTomeParalyze",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion75CommonEditorIDs =
             {
@@ -2465,7 +2464,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeCommandRune",
                 "MAG_SpellTomeMute",
                 "MAG_SpellTomeSilenceRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion75RareEditorIDs =
             {
@@ -2475,7 +2474,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeFade",
                 "MAG_SpellTomeFearRune",
                 "MAG_SpellTomeFrenzyRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion75VeryRareEditorIDs =
             {
@@ -2483,13 +2482,13 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeInvisibility",
                 "MAG_SpellTomeHypnotize",
                 "MAG_SpellTomeControl",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion100CommonEditorIDs =
             {
                 "MAG_SpellTomeQuietude",
                 "MAG_SpellTomeRally",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion100RareEditorIDs =
             {
@@ -2497,7 +2496,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeHarmony",
                 "MAG_SpellTomeHysteria",
                 "MAG_SpellTomeMayhem",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismIllusion100VeryRareEditorIDs =
             {
@@ -2506,7 +2505,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeDomination",
                 "MAG_SpellTomeGhostwalk",
                 "MAG_SpellTomeSanctuary",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -2518,16 +2517,16 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeLesserWard",
                 "MAG_SpellTomeSunbeam",
                 "MAG_SpellTomeTurnLesserUndead",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration00RareEditorIDs =
             {
                 "MAG_SpellTomePoisonSpray",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration25CommonEditorIDs =
             {
@@ -2538,7 +2537,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeSunFire",
                 "MAG_SpellTomeSunlightTouch",
                 "MAG_SpellTomeTurnUndead"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration25RareEditorIDs =
             {
@@ -2547,12 +2546,12 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomePoisonousTouch",
                 "MAG_SpellTomeSunlightRune",
                 "MAG_SpellTomeRegeneration",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration25VeryRareEditorIDs =
             {
                 "MAG_SpellTomePoisonRune",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration50CommonEditorIDs =
             {
@@ -2561,7 +2560,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeRadiantTouch",
                 "MAG_SpellTomeTurnGreaterUndead",
                 "MAG_SpellTomeGreaterWard",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration50RareEditorIDs =
             {
@@ -2569,7 +2568,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeAttunement",
                 "MAG_SpellTomeCircleofStrength",
                 "MAG_SpellTomeCircleofWisdom",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration50VeryRareEditorIDs =
             {
@@ -2577,7 +2576,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomePoisonCloud",
                 "MAG_SpellTomeDeadlyPoisonSpray",
                 "MAG_SpellTomeVenomousTouch",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration75CommonEditorIDs =
             {
@@ -2586,7 +2585,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeRepelUndead",
                 "MAG_SpellTomeSearingGrasp",
                 "MAG_SpellTomeGrandWard"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration75RareEditorIDs =
             {
@@ -2597,7 +2596,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeCureDisease",
                 "MAG_SpellTomeReflectiveLight",
                 "MAG_SpellTomeWallofSunlight",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration75VeryRareEditorIDs =
             {
@@ -2606,7 +2605,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeVipersGrasp",
                 "MAG_SpellTomeWallofPoison",
                 "MAG_SpellTomeMutagen",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration100CommonEditorIDs =
             {
@@ -2614,7 +2613,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeMarasEmbrace",
                 "MAG_SpellTomeSolarFlare",
                 "MAG_SpellTomeStendarrsMercy",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration100RareEditorIDs =
             {
@@ -2624,7 +2623,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeChargedNova",
                 "MAG_SpellTomeDaybreak",
                 "MAG_SpellTomeArkaysLight",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] mysticismRestoration100VeryRareEditorIDs =
             {
@@ -2636,7 +2635,7 @@ namespace RandomSpellMerchantPatcher
                 "MAG_SpellTomeFontofLife",
                 "MAG_SpellTomeFontofStrength",
                 "MAG_SpellTomeFontofWisdom",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Vampire and vampire hunter lists.
@@ -2900,7 +2899,7 @@ namespace RandomSpellMerchantPatcher
 
 
             // Apocalypse spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] apocalypseAllSpells00CommonEditorIDs =
             {
@@ -4628,145 +4627,145 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Triumvirate spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] triumvirateAllSpells00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Triumvirate - Alteration
 
             string[] triumvirateAlteration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration00VeryRareEditorIDs =
             {
                 "TVR_Druid_A000_Book_Druidcraft",
                 "TVR_Shadow_A000_Book_ShadowStride",
                 "TVR_Shaman_A000_Book_Farsight"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration25VeryRareEditorIDs =
             {
                 "TVR_Druid_A050_Book_Wildshape",
                 "TVR_Shadow_A050_Book_ShadowDance",
                 "TVR_Shaman_A050_Book_Fissure",
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration50VeryRareEditorIDs =
             {
                 "TVR_Druid_A050_Book_Wildshape",
                 "TVR_Shadow_A050_Book_ShadowDance",
                 "TVR_Shaman_A050_Book_Fissure"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration75VeryRareEditorIDs =
             {
                 "TVR_Druid_A075_Book_ImpenetrableGrove",
                 "TVR_Shadow_A075_Book_PullThroughShadow",
                 "TVR_Shaman_A075_Book_StaveBinding"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateAlteration100VeryRareEditorIDs =
             {
                 "TVR_Druid_A100_Book_ChaseTheHorizon",
                 "TVR_Shadow_A100_Book_NightGate",
                 "TVR_Shaman_A100_Book_SacredHearth"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -4774,78 +4773,78 @@ namespace RandomSpellMerchantPatcher
 
             string[] triumvirateConjuration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration00VeryRareEditorIDs =
             {
                 "TVR_Druid_C000_Book_CallRaven",
                 "TVR_Shaman_C000_Book_CreateWaterTotem",
                 "TVR_Warlock_C000_Book_ConjureGremlin"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration25VeryRareEditorIDs =
             {
                 "TVR_Druid_C025_Book_CallSnakes",
                 "TVR_Shaman_C025_Book_CreateTreeTotem",
                 "TVR_Warlock_C025_Book_ConjureTempleGrim"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration50VeryRareEditorIDs =
             {
                 "TVR_Druid_C050_Book_CallWolf",
                 "TVR_Shaman_C050_Book_SummonWindFylgja",
                 "TVR_Warlock_C050_Book_ConjureRavagor"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration75VeryRareEditorIDs =
             {
                 "TVR_Druid_C075_Book_CallSnowLeopard",
                 "TVR_Shaman_C075_Book_CreateEarthTotem",
                 "TVR_Warlock_C075_Book_ConjureOathbreaker"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateConjuration100VeryRareEditorIDs =
             {
                 "TVR_Druid_C100_Book_CallHoundOfHircine",
                 "TVR_Shaman_C100_Book_SummonSunFylgja",
                 "TVR_Warlock_C100_Book_ConjureLeviathan"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -4853,78 +4852,78 @@ namespace RandomSpellMerchantPatcher
 
             string[] triumvirateDestruction00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction00VeryRareEditorIDs =
             {
                 "TVR_Cleric_D000_Book_SolarRay",
                 "TVR_Shadow_D000_Book_DrainingTouch",
                 "TVR_Warlock_D000_Book_EldritchBlast"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction25VeryRareEditorIDs =
             {
                 "TVR_Cleric_D025_Book_HolyFire",
                 "TVR_Shadow_D025_Book_AzrasWrath",
                 "TVR_Warlock_D025_Book_Balefire"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction50VeryRareEditorIDs =
             {
                 "TVR_Cleric_D050_Book_ConsecratedGround",
                 "TVR_Shadow_D050_Book_Nightblade",
                 "TVR_Warlock_D050_Book_WitchBolt"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction75VeryRareEditorIDs =
             {
                 "TVR_Cleric_D075_Book_HolyShock",
                 "TVR_Shadow_D075_Book_DrainingShroud",
                 "TVR_Warlock_D075_Book_Cloudkill"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateDestruction100VeryRareEditorIDs =
             {
                 "TVR_Cleric_D100_Book_StormOfVengeance",
                 "TVR_Shadow_D100_Book_DrainingMist",
                 "TVR_Warlock_D100_Book_HurlIntoOblivion"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -4932,78 +4931,78 @@ namespace RandomSpellMerchantPatcher
 
             string[] triumvirateIllusion00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion00VeryRareEditorIDs =
             {
                 "TVR_Cleric_I000_Book_Suggestion",
                 "TVR_Shadow_I000_Book_GatherShadows",
                 "TVR_Warlock_I000_Book_Weaken"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion25VeryRareEditorIDs =
             {
                 "TVR_Cleric_I025_Book_Exile",
                 "TVR_Shadow_I025_Book_Darkness",
                 "TVR_Warlock_I025_Book_Frailty"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion50VeryRareEditorIDs =
             {
                 "TVR_Cleric_I050_Book_SpiritGuardian",
                 "TVR_Shadow_I050_Book_RevealSecrets",
                 "TVR_Warlock_I050_Book_IronMaiden"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion75VeryRareEditorIDs =
             {
                 "TVR_Cleric_I075_Book_Obedience",
                 "TVR_Shadow_I075_Book_Possession",
                 "TVR_Warlock_I075_Book_LifeTap"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateIllusion100VeryRareEditorIDs =
             {
                 "TVR_Cleric_I100_Book_Exodus",
                 "TVR_Shadow_I100_Book_Nightfall",
                 "TVR_Warlock_I100_Book_Decrepify"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5011,78 +5010,78 @@ namespace RandomSpellMerchantPatcher
 
             string[] triumvirateRestoration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration00VeryRareEditorIDs =
             {
                 "TVR_Cleric_R000_Book_Aid",
                 "TVR_Druid_R000_Book_SpiritOfTheOak",
                 "TVR_Shaman_R000_Book_RunesOpportunity"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration25VeryRareEditorIDs =
             {
                 "TVR_Cleric_R025_Book_Aura_1",
                 "TVR_Druid_R025_Book_ParasiticGrowth",
                 "TVR_Shaman_R025_Book_SpiritFire"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration50RareEditorIDs =
             {
                 "TVR_Cleric_R050_Book_Aura_2",
                 "TVR_Druid_R050_Book_SpiritOfThornbriar",
                 "TVR_Shaman_R050_Book_RunesHealing"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration75VeryRareEditorIDs =
             {
                 "TVR_Cleric_R075_Book_Aura_3",
                 "TVR_Druid_R075_Book_BrambleGrowth",
                 "TVR_Shaman_R075_Book_SpiritStorm"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] triumvirateRestoration100VeryRareEditorIDs =
             {
                 "TVR_Cleric_R100_Book_MassImmortality",
                 "TVR_Druid_R100_Book_SpiritOfTheSun",
                 "TVR_Shaman_R100_Book_ShieldOfAwe"
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5243,130 +5242,130 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Arcanum spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] arcanumAllSpells00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Arcanum - Alteration
 
             string[] arcanumAlteration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5374,63 +5373,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] arcanumConjuration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumConjuration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5438,63 +5437,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] arcanumDestruction00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumDestruction100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5502,63 +5501,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] arcanumIllusion00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumIllusion100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5566,63 +5565,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] arcanumRestoration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] arcanumRestoration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5783,130 +5782,130 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Natura spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] naturaAllSpells00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Natura - Alteration
 
             string[] naturaAlteration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5914,63 +5913,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] naturaConjuration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaConjuration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -5978,63 +5977,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] naturaDestruction00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaDestruction100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6042,63 +6041,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] naturaIllusion00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaIllusion100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6106,63 +6105,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] naturaRestoration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] naturaRestoration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6323,130 +6322,130 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Abyss spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] abyssAllSpells00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Abyss - Alteration
 
             string[] abyssAlteration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6454,63 +6453,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] abyssConjuration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssConjuration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6518,63 +6517,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] abyssDestruction00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssDestruction100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6582,63 +6581,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] abyssIllusion00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssIllusion100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6646,63 +6645,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] abyssRestoration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] abyssRestoration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6863,130 +6862,130 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Darenii spell packs spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] dareniiAllSpells00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Darenii spell packs - Alteration
 
             string[] dareniiAlteration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -6994,63 +6993,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] dareniiConjuration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiConjuration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7058,63 +7057,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] dareniiDestruction00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiDestruction100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7122,63 +7121,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] dareniiIllusion00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiIllusion100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7186,63 +7185,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] dareniiRestoration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] dareniiRestoration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7403,130 +7402,130 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Kittytail spell packs spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] kittytailAllSpells00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Kittytail spell packs - Alteration
 
             string[] kittytailAlteration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7534,63 +7533,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] kittytailConjuration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailConjuration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7598,63 +7597,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] kittytailDestruction00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailDestruction100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7662,63 +7661,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] kittytailIllusion00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailIllusion100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7726,63 +7725,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] kittytailRestoration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] kittytailRestoration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -7943,130 +7942,130 @@ namespace RandomSpellMerchantPatcher
             };
 
             // Forgotten Magic spell tome lists.
-            // Leave these empty until you manually paste the BOOK editor IDs you want this pack to sell.
+            // Spell tome editor IDs for this source.
 
             string[] forgottenMagicAllSpells00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAllSpells100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
             // Forgotten Magic - Alteration
 
             string[] forgottenMagicAlteration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicAlteration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -8074,63 +8073,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] forgottenMagicConjuration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicConjuration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -8138,63 +8137,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] forgottenMagicDestruction00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicDestruction100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -8202,63 +8201,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] forgottenMagicIllusion00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicIllusion100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -8266,63 +8265,63 @@ namespace RandomSpellMerchantPatcher
 
             string[] forgottenMagicRestoration00CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration00RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration00VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration25CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration25RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration25VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration50CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration50RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration50VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration75CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration75RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration75VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration100CommonEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration100RareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
             string[] forgottenMagicRestoration100VeryRareEditorIDs =
             {
-                // Add spell tome BOOK editor IDs here. Example: "MAG_SpellTomeWhatever",
+                // Add spell tome BOOK editor IDs here.
             };
 
 
@@ -8494,18 +8493,6 @@ namespace RandomSpellMerchantPatcher
             bool dareniiEnabled = IsAnyPluginLoaded(state, dareniiPluginNames);
             bool kittytailEnabled = IsAnyPluginLoaded(state, kittytailPluginNames);
             bool forgottenMagicEnabled = IsAnyPluginLoaded(state, forgottenMagicPluginNames);
-
-            PrintPluginStatus("Creation Club / Anniversary", ccEnabled);
-            PrintPluginStatus("Mysticism", mysticismEnabled);
-            PrintPluginStatus("Apocalypse", apocalypseEnabled);
-            PrintPluginStatus("Odin", odinEnabled);
-            PrintPluginStatus("Triumvirate", triumvirateEnabled);
-            PrintPluginStatus("Arcanum", arcanumEnabled);
-            PrintPluginStatus("Natura", naturaEnabled);
-            PrintPluginStatus("Abyss", abyssEnabled);
-            PrintPluginStatus("Darenii packs", dareniiEnabled);
-            PrintPluginStatus("Kittytail packs", kittytailEnabled);
-            PrintPluginStatus("Forgotten Magic", forgottenMagicEnabled);
 
             // Create spell tome leveled lists.
             // Every created RSM list combines vanilla plus only the enabled mod pack arrays above.
@@ -8894,101 +8881,7 @@ namespace RandomSpellMerchantPatcher
 
             // Court wizard general list.
 
-            // Print the calculated roll count for every generated spell list.
-            PrintRollCount(allSpells00Common, allSpells00CommonRolls);
-            PrintRollCount(allSpells00Rare, allSpells00RareRolls);
-            PrintRollCount(allSpells00VeryRare, allSpells00VeryRareRolls);
-            PrintRollCount(allSpells25Common, allSpells25CommonRolls);
-            PrintRollCount(allSpells25Rare, allSpells25RareRolls);
-            PrintRollCount(allSpells25VeryRare, allSpells25VeryRareRolls);
-            PrintRollCount(allSpells50Common, allSpells50CommonRolls);
-            PrintRollCount(allSpells50Rare, allSpells50RareRolls);
-            PrintRollCount(allSpells50VeryRare, allSpells50VeryRareRolls);
-            PrintRollCount(allSpells75Common, allSpells75CommonRolls);
-            PrintRollCount(allSpells75Rare, allSpells75RareRolls);
-            PrintRollCount(allSpells75VeryRare, allSpells75VeryRareRolls);
-            PrintRollCount(allSpells100Common, allSpells100CommonRolls);
-            PrintRollCount(allSpells100Rare, allSpells100RareRolls);
-            PrintRollCount(allSpells100VeryRare, allSpells100VeryRareRolls);
-            PrintRollCount(alteration00Common, alteration00CommonRolls);
-            PrintRollCount(alteration00Rare, alteration00RareRolls);
-            PrintRollCount(alteration00VeryRare, alteration00VeryRareRolls);
-            PrintRollCount(alteration25Common, alteration25CommonRolls);
-            PrintRollCount(alteration25Rare, alteration25RareRolls);
-            PrintRollCount(alteration25VeryRare, alteration25VeryRareRolls);
-            PrintRollCount(alteration50Common, alteration50CommonRolls);
-            PrintRollCount(alteration50Rare, alteration50RareRolls);
-            PrintRollCount(alteration50VeryRare, alteration50VeryRareRolls);
-            PrintRollCount(alteration75Common, alteration75CommonRolls);
-            PrintRollCount(alteration75Rare, alteration75RareRolls);
-            PrintRollCount(alteration75VeryRare, alteration75VeryRareRolls);
-            PrintRollCount(alteration100Common, alteration100CommonRolls);
-            PrintRollCount(alteration100Rare, alteration100RareRolls);
-            PrintRollCount(alteration100VeryRare, alteration100VeryRareRolls);
-            PrintRollCount(conjuration00Common, conjuration00CommonRolls);
-            PrintRollCount(conjuration00Rare, conjuration00RareRolls);
-            PrintRollCount(conjuration00VeryRare, conjuration00VeryRareRolls);
-            PrintRollCount(conjuration25Common, conjuration25CommonRolls);
-            PrintRollCount(conjuration25Rare, conjuration25RareRolls);
-            PrintRollCount(conjuration25VeryRare, conjuration25VeryRareRolls);
-            PrintRollCount(conjuration50Common, conjuration50CommonRolls);
-            PrintRollCount(conjuration50Rare, conjuration50RareRolls);
-            PrintRollCount(conjuration50VeryRare, conjuration50VeryRareRolls);
-            PrintRollCount(conjuration75Common, conjuration75CommonRolls);
-            PrintRollCount(conjuration75Rare, conjuration75RareRolls);
-            PrintRollCount(conjuration75VeryRare, conjuration75VeryRareRolls);
-            PrintRollCount(conjuration100Common, conjuration100CommonRolls);
-            PrintRollCount(conjuration100Rare, conjuration100RareRolls);
-            PrintRollCount(conjuration100VeryRare, conjuration100VeryRareRolls);
-            PrintRollCount(destruction00Common, destruction00CommonRolls);
-            PrintRollCount(destruction00Rare, destruction00RareRolls);
-            PrintRollCount(destruction00VeryRare, destruction00VeryRareRolls);
-            PrintRollCount(destruction25Common, destruction25CommonRolls);
-            PrintRollCount(destruction25Rare, destruction25RareRolls);
-            PrintRollCount(destruction25VeryRare, destruction25VeryRareRolls);
-            PrintRollCount(destruction50Common, destruction50CommonRolls);
-            PrintRollCount(destruction50Rare, destruction50RareRolls);
-            PrintRollCount(destruction50VeryRare, destruction50VeryRareRolls);
-            PrintRollCount(destruction75Common, destruction75CommonRolls);
-            PrintRollCount(destruction75Rare, destruction75RareRolls);
-            PrintRollCount(destruction75VeryRare, destruction75VeryRareRolls);
-            PrintRollCount(destruction100Common, destruction100CommonRolls);
-            PrintRollCount(destruction100Rare, destruction100RareRolls);
-            PrintRollCount(destruction100VeryRare, destruction100VeryRareRolls);
-            PrintRollCount(illusion00Common, illusion00CommonRolls);
-            PrintRollCount(illusion00Rare, illusion00RareRolls);
-            PrintRollCount(illusion00VeryRare, illusion00VeryRareRolls);
-            PrintRollCount(illusion25Common, illusion25CommonRolls);
-            PrintRollCount(illusion25Rare, illusion25RareRolls);
-            PrintRollCount(illusion25VeryRare, illusion25VeryRareRolls);
-            PrintRollCount(illusion50Common, illusion50CommonRolls);
-            PrintRollCount(illusion50Rare, illusion50RareRolls);
-            PrintRollCount(illusion50VeryRare, illusion50VeryRareRolls);
-            PrintRollCount(illusion75Common, illusion75CommonRolls);
-            PrintRollCount(illusion75Rare, illusion75RareRolls);
-            PrintRollCount(illusion75VeryRare, illusion75VeryRareRolls);
-            PrintRollCount(illusion100Common, illusion100CommonRolls);
-            PrintRollCount(illusion100Rare, illusion100RareRolls);
-            PrintRollCount(illusion100VeryRare, illusion100VeryRareRolls);
-            PrintRollCount(restoration00Common, restoration00CommonRolls);
-            PrintRollCount(restoration00Rare, restoration00RareRolls);
-            PrintRollCount(restoration00VeryRare, restoration00VeryRareRolls);
-            PrintRollCount(restoration25Common, restoration25CommonRolls);
-            PrintRollCount(restoration25Rare, restoration25RareRolls);
-            PrintRollCount(restoration25VeryRare, restoration25VeryRareRolls);
-            PrintRollCount(restoration50Common, restoration50CommonRolls);
-            PrintRollCount(restoration50Rare, restoration50RareRolls);
-            PrintRollCount(restoration50VeryRare, restoration50VeryRareRolls);
-            PrintRollCount(restoration75Common, restoration75CommonRolls);
-            PrintRollCount(restoration75Rare, restoration75RareRolls);
-            PrintRollCount(restoration75VeryRare, restoration75VeryRareRolls);
-            PrintRollCount(restoration100Common, restoration100CommonRolls);
-            PrintRollCount(restoration100Rare, restoration100RareRolls);
-            PrintRollCount(restoration100VeryRare, restoration100VeryRareRolls);
-
-
-
-            AddListRolls(courtWizardList, allSpells00Common, allSpells00CommonRolls);
+                        AddListRolls(courtWizardList, allSpells00Common, allSpells00CommonRolls);
             AddListRolls(courtWizardList, allSpells00Rare, allSpells00RareRolls);
             AddListRolls(courtWizardList, allSpells00VeryRare, allSpells00VeryRareRolls);
             AddListRolls(courtWizardList, allSpells25Common, allSpells25CommonRolls);
@@ -9332,7 +9225,6 @@ namespace RandomSpellMerchantPatcher
                 (int)Math.Ceiling(1 / ((100 - commonChanceNone) / 100.0)));
 
             // Add generated lists to merchant chests.
-            // TODO: Review Enthir, Talvas, vampire merchants, and Florentius for any remaining custom assignments.
 
             foreach (var editorId in courtWizardEditorIDs)
             {
@@ -9517,7 +9409,122 @@ namespace RandomSpellMerchantPatcher
                 AddContainerListRolls(nelacarChest, conjurationSpecialist, 1);
             }
 
-            Console.WriteLine("Done building Random Spell Merchant patch.");
+
+            // Final release summary. These values are expected averages from RSM's generated rolls.
+            // They report the RSM contribution; existing non-RSM container items are not included.
+            PrintAverageInventory(
+                "Court wizard inventory (Farengar and other court wizards):",
+                ("00 all spells Common", allSpells00CommonRolls, commonChanceNone, 1),
+                ("00 all spells Rare", allSpells00RareRolls, rareChanceNone, 1),
+                ("00 all spells Very Rare", allSpells00VeryRareRolls, veryRareChanceNone, 1),
+                ("25 all spells Common", allSpells25CommonRolls, commonChanceNone, 1),
+                ("25 all spells Rare", allSpells25RareRolls, rareChanceNone, 1),
+                ("25 all spells Very Rare", allSpells25VeryRareRolls, veryRareChanceNone, 1),
+                ("50 all spells Common", allSpells50CommonRolls, commonChanceNone, 1),
+                ("50 all spells Rare", allSpells50RareRolls, rareChanceNone, 1),
+                ("50 all spells Very Rare", allSpells50VeryRareRolls, veryRareChanceNone, 1),
+                ("75 all spells Common", allSpells75CommonRolls, commonChanceNone, 1),
+                ("75 all spells Rare", allSpells75RareRolls, rareChanceNone, 1),
+                ("75 all spells Very Rare", allSpells75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 all spells Common", allSpells100CommonRolls, commonChanceNone, 1),
+                ("100 all spells Rare", allSpells100RareRolls, rareChanceNone, 1),
+                ("100 all spells Very Rare", allSpells100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "General merchant inventory:",
+                ("00 all spells Common", (int)Math.Ceiling(3 / ((100 - commonChanceNone) / 100.0)), commonChanceNone, 1),
+                ("25 all spells Common", (int)Math.Ceiling(2 / ((100 - commonChanceNone) / 100.0)), commonChanceNone, 1),
+                ("50 all spells Common", (int)Math.Ceiling(1 / ((100 - commonChanceNone) / 100.0)), commonChanceNone, 1));
+
+            PrintAverageInventory(
+                "Alteration specialist list (one copy):",
+                ("00 Alteration Common", alteration00CommonRolls, commonChanceNone, 1),
+                ("00 Alteration Rare", alteration00RareRolls, rareChanceNone, 1),
+                ("00 Alteration Very Rare", alteration00VeryRareRolls, veryRareChanceNone, 1),
+                ("25 Alteration Common", alteration25CommonRolls, commonChanceNone, 1),
+                ("25 Alteration Rare", alteration25RareRolls, rareChanceNone, 1),
+                ("25 Alteration Very Rare", alteration25VeryRareRolls, veryRareChanceNone, 1),
+                ("50 Alteration Common", alteration50CommonRolls, commonChanceNone, 1),
+                ("50 Alteration Rare", alteration50RareRolls, rareChanceNone, 1),
+                ("50 Alteration Very Rare", alteration50VeryRareRolls, veryRareChanceNone, 1),
+                ("75 Alteration Common", alteration75CommonRolls, commonChanceNone, 1),
+                ("75 Alteration Rare", alteration75RareRolls, rareChanceNone, 1),
+                ("75 Alteration Very Rare", alteration75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Alteration Common", alteration100CommonRolls, commonChanceNone, 1),
+                ("100 Alteration Rare", alteration100RareRolls, rareChanceNone, 1),
+                ("100 Alteration Very Rare", alteration100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "Conjuration specialist list (one copy):",
+                ("00 Conjuration Common", conjuration00CommonRolls, commonChanceNone, 1),
+                ("00 Conjuration Rare", conjuration00RareRolls, rareChanceNone, 1),
+                ("00 Conjuration Very Rare", conjuration00VeryRareRolls, veryRareChanceNone, 1),
+                ("25 Conjuration Common", conjuration25CommonRolls, commonChanceNone, 1),
+                ("25 Conjuration Rare", conjuration25RareRolls, rareChanceNone, 1),
+                ("25 Conjuration Very Rare", conjuration25VeryRareRolls, veryRareChanceNone, 1),
+                ("50 Conjuration Common", conjuration50CommonRolls, commonChanceNone, 1),
+                ("50 Conjuration Rare", conjuration50RareRolls, rareChanceNone, 1),
+                ("50 Conjuration Very Rare", conjuration50VeryRareRolls, veryRareChanceNone, 1),
+                ("75 Conjuration Common", conjuration75CommonRolls, commonChanceNone, 1),
+                ("75 Conjuration Rare", conjuration75RareRolls, rareChanceNone, 1),
+                ("75 Conjuration Very Rare", conjuration75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Conjuration Common", conjuration100CommonRolls, commonChanceNone, 1),
+                ("100 Conjuration Rare", conjuration100RareRolls, rareChanceNone, 1),
+                ("100 Conjuration Very Rare", conjuration100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "Destruction specialist list (one copy):",
+                ("00 Destruction Common", destruction00CommonRolls, commonChanceNone, 1),
+                ("00 Destruction Rare", destruction00RareRolls, rareChanceNone, 1),
+                ("00 Destruction Very Rare", destruction00VeryRareRolls, veryRareChanceNone, 1),
+                ("25 Destruction Common", destruction25CommonRolls, commonChanceNone, 1),
+                ("25 Destruction Rare", destruction25RareRolls, rareChanceNone, 1),
+                ("25 Destruction Very Rare", destruction25VeryRareRolls, veryRareChanceNone, 1),
+                ("50 Destruction Common", destruction50CommonRolls, commonChanceNone, 1),
+                ("50 Destruction Rare", destruction50RareRolls, rareChanceNone, 1),
+                ("50 Destruction Very Rare", destruction50VeryRareRolls, veryRareChanceNone, 1),
+                ("75 Destruction Common", destruction75CommonRolls, commonChanceNone, 1),
+                ("75 Destruction Rare", destruction75RareRolls, rareChanceNone, 1),
+                ("75 Destruction Very Rare", destruction75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Destruction Common", destruction100CommonRolls, commonChanceNone, 1),
+                ("100 Destruction Rare", destruction100RareRolls, rareChanceNone, 1),
+                ("100 Destruction Very Rare", destruction100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "Illusion specialist list (one copy):",
+                ("00 Illusion Common", illusion00CommonRolls, commonChanceNone, 1),
+                ("00 Illusion Rare", illusion00RareRolls, rareChanceNone, 1),
+                ("00 Illusion Very Rare", illusion00VeryRareRolls, veryRareChanceNone, 1),
+                ("25 Illusion Common", illusion25CommonRolls, commonChanceNone, 1),
+                ("25 Illusion Rare", illusion25RareRolls, rareChanceNone, 1),
+                ("25 Illusion Very Rare", illusion25VeryRareRolls, veryRareChanceNone, 1),
+                ("50 Illusion Common", illusion50CommonRolls, commonChanceNone, 1),
+                ("50 Illusion Rare", illusion50RareRolls, rareChanceNone, 1),
+                ("50 Illusion Very Rare", illusion50VeryRareRolls, veryRareChanceNone, 1),
+                ("75 Illusion Common", illusion75CommonRolls, commonChanceNone, 1),
+                ("75 Illusion Rare", illusion75RareRolls, rareChanceNone, 1),
+                ("75 Illusion Very Rare", illusion75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Illusion Common", illusion100CommonRolls, commonChanceNone, 1),
+                ("100 Illusion Rare", illusion100RareRolls, rareChanceNone, 1),
+                ("100 Illusion Very Rare", illusion100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "Restoration specialist list (one copy):",
+                ("00 Restoration Common", restoration00CommonRolls, commonChanceNone, 1),
+                ("00 Restoration Rare", restoration00RareRolls, rareChanceNone, 1),
+                ("00 Restoration Very Rare", restoration00VeryRareRolls, veryRareChanceNone, 1),
+                ("25 Restoration Common", restoration25CommonRolls, commonChanceNone, 1),
+                ("25 Restoration Rare", restoration25RareRolls, rareChanceNone, 1),
+                ("25 Restoration Very Rare", restoration25VeryRareRolls, veryRareChanceNone, 1),
+                ("50 Restoration Common", restoration50CommonRolls, commonChanceNone, 1),
+                ("50 Restoration Rare", restoration50RareRolls, rareChanceNone, 1),
+                ("50 Restoration Very Rare", restoration50VeryRareRolls, veryRareChanceNone, 1),
+                ("75 Restoration Common", restoration75CommonRolls, commonChanceNone, 1),
+                ("75 Restoration Rare", restoration75RareRolls, rareChanceNone, 1),
+                ("75 Restoration Very Rare", restoration75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Restoration Common", restoration100CommonRolls, commonChanceNone, 1),
+                ("100 Restoration Rare", restoration100RareRolls, rareChanceNone, 1),
+                ("100 Restoration Very Rare", restoration100VeryRareRolls, veryRareChanceNone, 1));
         }
 
 
@@ -9614,10 +9621,6 @@ namespace RandomSpellMerchantPatcher
                 x.ModKey.ToString().StartsWith("cc", StringComparison.OrdinalIgnoreCase));
         }
 
-        private static void PrintPluginStatus(string modName, bool enabled)
-        {
-            Console.WriteLine($"{modName}: {(enabled ? "enabled - adding its spell lists" : "not loaded - skipping its spell lists")}");
-        }
 
         private static string[] UseIfLoaded(bool pluginEnabled, string[] editorIDs)
         {
@@ -9678,15 +9681,10 @@ namespace RandomSpellMerchantPatcher
                 });
             }
 
-            Console.WriteLine($"Created {newEditorId} with {list.Entries.Count} resolved tome(s).");
 
             return list;
         }
 
-        private static void PrintRollCount(LeveledItem list, int rolls)
-        {
-            Console.WriteLine($"{list.EditorID} has {rolls} roll(s).");
-        }
 
         private static void AddListRolls(LeveledItem parentList, LeveledItem childList, int count)
         {
@@ -9859,7 +9857,6 @@ namespace RandomSpellMerchantPatcher
                     AddContainerListRolls(chest, expertList, specialtyCopies);
 
                 }
-                Console.WriteLine($"Added {specialtyCopies}x {specialistList.EditorID} to {editorId}.");
             }
         }
 
@@ -9878,19 +9875,16 @@ namespace RandomSpellMerchantPatcher
                 {
                     if (list.EditorID != null && list.EditorID.Contains("TVR", StringComparison.OrdinalIgnoreCase))
                     {
-                        Console.WriteLine($"Removing {chestEditorId} spell list: {list.EditorID}");
                         chest.Items.RemoveAt(i);
                         continue;
                     }  
                     if (list.EditorID != null && list.EditorID.Contains("CCLItemSpell", StringComparison.OrdinalIgnoreCase))
                     {
-                        Console.WriteLine($"Removing {chestEditorId} spell list: {list.EditorID}");
                         chest.Items.RemoveAt(i);
                         continue;
                     }
                     if (list.EditorID != null && list.EditorID.Contains("SpellTome", StringComparison.OrdinalIgnoreCase))
                     {
-                        Console.WriteLine($"Removing {chestEditorId} spell list: {list.EditorID}");
                         chest.Items.RemoveAt(i);
                     }
                 }
@@ -9945,6 +9939,25 @@ namespace RandomSpellMerchantPatcher
 
             return Math.Max(1, roundedRolls);
         }
+
+        private static void PrintAverageInventory(
+            string merchantGroup,
+            params (string Label, int Rolls, int ChanceNone, int Copies)[] entries)
+        {
+            Console.WriteLine(merchantGroup);
+
+            foreach (var entry in entries)
+            {
+                double averageBooks =
+                    entry.Rolls *
+                    entry.Copies *
+                    ((100.0 - entry.ChanceNone) / 100.0);
+
+                Console.WriteLine(
+                    $"{entry.Label} will have {averageBooks:0.00} books on average.");
+            }
+        }
+
         private static void RemoveOrReplaceExistingSpellTomeLists(
             IPatcherState<ISkyrimMod, ISkyrimModGetter> state,
             Container chest,
@@ -9963,7 +9976,6 @@ namespace RandomSpellMerchantPatcher
 
             chest.Items ??= new ExtendedList<ContainerEntry>();
 
-            Console.WriteLine($"BEFORE patching {chestEditorId}");
 
             for (int i = chest.Items.Count - 1; i >= 0; i--)
             {
@@ -9972,7 +9984,6 @@ namespace RandomSpellMerchantPatcher
                 {
                     if (list.EditorID != null && list.EditorID.Contains("TVR", StringComparison.OrdinalIgnoreCase))
                     {
-                        Console.WriteLine($"Removing {chestEditorId} spell list: {list.EditorID}");
                         chest.Items.RemoveAt(i);
                         continue;
                     } 
@@ -9984,12 +9995,10 @@ namespace RandomSpellMerchantPatcher
                             if (!addDestructionSpecialist)
                             {
                                 addDestructionSpecialist = true;
-                                Console.WriteLine($"Replacing {chestEditorId} destruction spell list: {list.EditorID} with destruction specialist list.");
                                 entry.Item.Item = destructionSpecialist.ToLink();
                             }
                             else
                             {
-                                Console.WriteLine($"Removing extra {chestEditorId} destruction spell list: {list.EditorID}");
                                 chest.Items.RemoveAt(i);
                             }
                         }
@@ -9998,12 +10007,10 @@ namespace RandomSpellMerchantPatcher
                             if (!addAlterationSpecialist)
                             {
                                 addAlterationSpecialist = true;
-                                Console.WriteLine($"Replacing {chestEditorId} alteration spell list: {list.EditorID} with alteration specialist list.");
                                 entry.Item.Item = alterationSpecialist.ToLink();
                             }
                             else
                             {
-                                Console.WriteLine($"Removing extra {chestEditorId} alteration spell list: {list.EditorID}");
                                 chest.Items.RemoveAt(i);
                             }
                         }
@@ -10012,12 +10019,10 @@ namespace RandomSpellMerchantPatcher
                             if (!addConjurationSpecialist)
                             {
                                 addConjurationSpecialist = true;
-                                Console.WriteLine($"Replacing {chestEditorId} conjuration spell list: {list.EditorID} with conjuration specialist list.");
                                 entry.Item.Item = conjurationSpecialist.ToLink();
                             }
                             else
                             {
-                                Console.WriteLine($"Removing extra {chestEditorId} conjuration spell list: {list.EditorID}");
                                 chest.Items.RemoveAt(i);
                             }
                         }
@@ -10026,12 +10031,10 @@ namespace RandomSpellMerchantPatcher
                             if (!addIllusionSpecialist)
                             {
                                 addIllusionSpecialist = true;
-                                Console.WriteLine($"Replacing {chestEditorId} illusion spell list: {list.EditorID} with illusion specialist list.");
                                 entry.Item.Item = illusionSpecialist.ToLink();
                             }
                             else
                             {
-                                Console.WriteLine($"Removing extra {chestEditorId} illusion spell list: {list.EditorID}");
                                 chest.Items.RemoveAt(i);
                             }
                         }
@@ -10040,18 +10043,15 @@ namespace RandomSpellMerchantPatcher
                             if (!addRestorationSpecialist)
                             {
                                 addRestorationSpecialist = true;
-                                Console.WriteLine($"Replacing {chestEditorId} restoration spell list: {list.EditorID} with restoration specialist list.");
                                 entry.Item.Item = restorationSpecialist.ToLink();
                             }
                             else
                             {
-                                Console.WriteLine($"Removing extra {chestEditorId} restoration spell list: {list.EditorID}");
                                 chest.Items.RemoveAt(i);
                             }
                         }
                         else
                         {
-                            Console.WriteLine($"Removing {chestEditorId} spell list: {list.EditorID}");
                             chest.Items.RemoveAt(i);
                         }
                     }
