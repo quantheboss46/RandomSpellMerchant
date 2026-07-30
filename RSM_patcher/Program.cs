@@ -8890,7 +8890,7 @@ namespace RandomSpellMerchantPatcher
 
             // Court wizard general list.
 
-                        AddListRolls(courtWizardList, allSpells00Common, allSpells00CommonRolls);
+            AddListRolls(courtWizardList, allSpells00Common, allSpells00CommonRolls);
             AddListRolls(courtWizardList, allSpells00Rare, allSpells00RareRolls);
             AddListRolls(courtWizardList, allSpells00VeryRare, allSpells00VeryRareRolls);
             AddListRolls(courtWizardList, allSpells25Common, allSpells25CommonRolls);
@@ -9422,7 +9422,7 @@ namespace RandomSpellMerchantPatcher
             // Final release summary. These values are expected averages from RSM's generated rolls.
             // They report the RSM contribution; existing non-RSM container items are not included.
             PrintAverageInventory(
-                "Court wizard inventory (Farengar and other court wizards):",
+                "Court wizard base inventory (Farengar and other court wizards). Each court wizard gets this base list plus one school specialty list:",
                 ("00 all spells Common", allSpells00CommonRolls, commonChanceNone, 1),
                 ("00 all spells Rare", allSpells00RareRolls, rareChanceNone, 1),
                 ("00 all spells Very Rare", allSpells00VeryRareRolls, veryRareChanceNone, 1),
@@ -9457,11 +9457,11 @@ namespace RandomSpellMerchantPatcher
                 ("50 Alteration Rare", alteration50RareRolls, rareChanceNone, 1),
                 ("50 Alteration Very Rare", alteration50VeryRareRolls, veryRareChanceNone, 1),
                 ("75 Alteration Common", alteration75CommonRolls, commonChanceNone, 1),
-                ("75 Alteration Rare", alteration75RareRolls, rareChanceNone, 1),
-                ("75 Alteration Very Rare", alteration75VeryRareRolls, veryRareChanceNone, 1),
-                ("100 Alteration Common", alteration100CommonRolls, commonChanceNone, 1),
-                ("100 Alteration Rare", alteration100RareRolls, rareChanceNone, 1),
-                ("100 Alteration Very Rare", alteration100VeryRareRolls, veryRareChanceNone, 1));
+                ("75 Alteration Rare", alteration75RareRolls, rareChanceNone, 0),
+                ("75 Alteration Very Rare", alteration75VeryRareRolls, veryRareChanceNone, 0),
+                ("100 Alteration Common", alteration100CommonRolls, commonChanceNone, 0),
+                ("100 Alteration Rare", alteration100RareRolls, rareChanceNone, 0),
+                ("100 Alteration Very Rare", alteration100VeryRareRolls, veryRareChanceNone, 0));
 
             PrintAverageInventory(
                 "Conjuration specialist list (one copy):",
@@ -9475,11 +9475,11 @@ namespace RandomSpellMerchantPatcher
                 ("50 Conjuration Rare", conjuration50RareRolls, rareChanceNone, 1),
                 ("50 Conjuration Very Rare", conjuration50VeryRareRolls, veryRareChanceNone, 1),
                 ("75 Conjuration Common", conjuration75CommonRolls, commonChanceNone, 1),
-                ("75 Conjuration Rare", conjuration75RareRolls, rareChanceNone, 1),
-                ("75 Conjuration Very Rare", conjuration75VeryRareRolls, veryRareChanceNone, 1),
-                ("100 Conjuration Common", conjuration100CommonRolls, commonChanceNone, 1),
-                ("100 Conjuration Rare", conjuration100RareRolls, rareChanceNone, 1),
-                ("100 Conjuration Very Rare", conjuration100VeryRareRolls, veryRareChanceNone, 1));
+                ("75 Conjuration Rare", conjuration75RareRolls, rareChanceNone, 0),
+                ("75 Conjuration Very Rare", conjuration75VeryRareRolls, veryRareChanceNone, 0),
+                ("100 Conjuration Common", conjuration100CommonRolls, commonChanceNone, 0),
+                ("100 Conjuration Rare", conjuration100RareRolls, rareChanceNone, 0),
+                ("100 Conjuration Very Rare", conjuration100VeryRareRolls, veryRareChanceNone, 0));
 
             PrintAverageInventory(
                 "Destruction specialist list (one copy):",
@@ -9493,11 +9493,11 @@ namespace RandomSpellMerchantPatcher
                 ("50 Destruction Rare", destruction50RareRolls, rareChanceNone, 1),
                 ("50 Destruction Very Rare", destruction50VeryRareRolls, veryRareChanceNone, 1),
                 ("75 Destruction Common", destruction75CommonRolls, commonChanceNone, 1),
-                ("75 Destruction Rare", destruction75RareRolls, rareChanceNone, 1),
-                ("75 Destruction Very Rare", destruction75VeryRareRolls, veryRareChanceNone, 1),
-                ("100 Destruction Common", destruction100CommonRolls, commonChanceNone, 1),
-                ("100 Destruction Rare", destruction100RareRolls, rareChanceNone, 1),
-                ("100 Destruction Very Rare", destruction100VeryRareRolls, veryRareChanceNone, 1));
+                ("75 Destruction Rare", destruction75RareRolls, rareChanceNone, 0),
+                ("75 Destruction Very Rare", destruction75VeryRareRolls, veryRareChanceNone, 0),
+                ("100 Destruction Common", destruction100CommonRolls, commonChanceNone, 0),
+                ("100 Destruction Rare", destruction100RareRolls, rareChanceNone, 0),
+                ("100 Destruction Very Rare", destruction100VeryRareRolls, veryRareChanceNone, 0));
 
             PrintAverageInventory(
                 "Illusion specialist list (one copy):",
@@ -9511,11 +9511,11 @@ namespace RandomSpellMerchantPatcher
                 ("50 Illusion Rare", illusion50RareRolls, rareChanceNone, 1),
                 ("50 Illusion Very Rare", illusion50VeryRareRolls, veryRareChanceNone, 1),
                 ("75 Illusion Common", illusion75CommonRolls, commonChanceNone, 1),
-                ("75 Illusion Rare", illusion75RareRolls, rareChanceNone, 1),
-                ("75 Illusion Very Rare", illusion75VeryRareRolls, veryRareChanceNone, 1),
-                ("100 Illusion Common", illusion100CommonRolls, commonChanceNone, 1),
-                ("100 Illusion Rare", illusion100RareRolls, rareChanceNone, 1),
-                ("100 Illusion Very Rare", illusion100VeryRareRolls, veryRareChanceNone, 1));
+                ("75 Illusion Rare", illusion75RareRolls, rareChanceNone, 0),
+                ("75 Illusion Very Rare", illusion75VeryRareRolls, veryRareChanceNone, 0),
+                ("100 Illusion Common", illusion100CommonRolls, commonChanceNone, 0),
+                ("100 Illusion Rare", illusion100RareRolls, rareChanceNone, 0),
+                ("100 Illusion Very Rare", illusion100VeryRareRolls, veryRareChanceNone, 0));
 
             PrintAverageInventory(
                 "Restoration specialist list (one copy):",
@@ -9529,12 +9529,103 @@ namespace RandomSpellMerchantPatcher
                 ("50 Restoration Rare", restoration50RareRolls, rareChanceNone, 1),
                 ("50 Restoration Very Rare", restoration50VeryRareRolls, veryRareChanceNone, 1),
                 ("75 Restoration Common", restoration75CommonRolls, commonChanceNone, 1),
+                ("75 Restoration Rare", restoration75RareRolls, rareChanceNone, 0),
+                ("75 Restoration Very Rare", restoration75VeryRareRolls, veryRareChanceNone, 0),
+                ("100 Restoration Common", restoration100CommonRolls, commonChanceNone, 0),
+                ("100 Restoration Rare", restoration100RareRolls, rareChanceNone, 0),
+                ("100 Restoration Very Rare", restoration100VeryRareRolls, veryRareChanceNone, 0));
+
+            PrintAverageInventory(
+                "Alteration Expert lists (Collage seller):",
+                ("00 Alteration Common", alteration00CommonRolls, commonChanceNone, 2),
+                ("00 Alteration Rare", alteration00RareRolls, rareChanceNone, 2),
+                ("00 Alteration Very Rare", alteration00VeryRareRolls, veryRareChanceNone, 2),
+                ("25 Alteration Common", alteration25CommonRolls, commonChanceNone, 2),
+                ("25 Alteration Rare", alteration25RareRolls, rareChanceNone, 2),
+                ("25 Alteration Very Rare", alteration25VeryRareRolls, veryRareChanceNone, 2),
+                ("50 Alteration Common", alteration50CommonRolls, commonChanceNone, 2),
+                ("50 Alteration Rare", alteration50RareRolls, rareChanceNone, 2),
+                ("50 Alteration Very Rare", alteration50VeryRareRolls, veryRareChanceNone, 2),
+                ("75 Alteration Common", alteration75CommonRolls, commonChanceNone, 2),
+                ("75 Alteration Rare", alteration75RareRolls, rareChanceNone, 1),
+                ("75 Alteration Very Rare", alteration75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Alteration Common", alteration100CommonRolls, commonChanceNone, 1),
+                ("100 Alteration Rare", alteration100RareRolls, rareChanceNone, 1),
+                ("100 Alteration Very Rare", alteration100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "Conjuration Expert lists (college seller):",
+                ("00 Conjuration Common", conjuration00CommonRolls, commonChanceNone, 2),
+                ("00 Conjuration Rare", conjuration00RareRolls, rareChanceNone, 2),
+                ("00 Conjuration Very Rare", conjuration00VeryRareRolls, veryRareChanceNone, 2),
+                ("25 Conjuration Common", conjuration25CommonRolls, commonChanceNone, 2),
+                ("25 Conjuration Rare", conjuration25RareRolls, rareChanceNone, 2),
+                ("25 Conjuration Very Rare", conjuration25VeryRareRolls, veryRareChanceNone, 2),
+                ("50 Conjuration Common", conjuration50CommonRolls, commonChanceNone, 2),
+                ("50 Conjuration Rare", conjuration50RareRolls, rareChanceNone, 2),
+                ("50 Conjuration Very Rare", conjuration50VeryRareRolls, veryRareChanceNone, 2),
+                ("75 Conjuration Common", conjuration75CommonRolls, commonChanceNone, 2),
+                ("75 Conjuration Rare", conjuration75RareRolls, rareChanceNone, 1),
+                ("75 Conjuration Very Rare", conjuration75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Conjuration Common", conjuration100CommonRolls, commonChanceNone, 1),
+                ("100 Conjuration Rare", conjuration100RareRolls, rareChanceNone, 1),
+                ("100 Conjuration Very Rare", conjuration100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "Destruction Expert lists (college seller):",
+                ("00 Destruction Common", destruction00CommonRolls, commonChanceNone, 2),
+                ("00 Destruction Rare", destruction00RareRolls, rareChanceNone, 2),
+                ("00 Destruction Very Rare", destruction00VeryRareRolls, veryRareChanceNone, 2),
+                ("25 Destruction Common", destruction25CommonRolls, commonChanceNone, 2),
+                ("25 Destruction Rare", destruction25RareRolls, rareChanceNone, 2),
+                ("25 Destruction Very Rare", destruction25VeryRareRolls, veryRareChanceNone, 2),
+                ("50 Destruction Common", destruction50CommonRolls, commonChanceNone, 2),
+                ("50 Destruction Rare", destruction50RareRolls, rareChanceNone, 2),
+                ("50 Destruction Very Rare", destruction50VeryRareRolls, veryRareChanceNone, 2),
+                ("75 Destruction Common", destruction75CommonRolls, commonChanceNone, 2),
+                ("75 Destruction Rare", destruction75RareRolls, rareChanceNone, 1),
+                ("75 Destruction Very Rare", destruction75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Destruction Common", destruction100CommonRolls, commonChanceNone, 1),
+                ("100 Destruction Rare", destruction100RareRolls, rareChanceNone, 1),
+                ("100 Destruction Very Rare", destruction100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "Illusion Expert lists (college seller):",
+                ("00 Illusion Common", illusion00CommonRolls, commonChanceNone, 2),
+                ("00 Illusion Rare", illusion00RareRolls, rareChanceNone, 2),
+                ("00 Illusion Very Rare", illusion00VeryRareRolls, veryRareChanceNone, 2),
+                ("25 Illusion Common", illusion25CommonRolls, commonChanceNone, 2),
+                ("25 Illusion Rare", illusion25RareRolls, rareChanceNone, 2),
+                ("25 Illusion Very Rare", illusion25VeryRareRolls, veryRareChanceNone, 2),
+                ("50 Illusion Common", illusion50CommonRolls, commonChanceNone, 2),
+                ("50 Illusion Rare", illusion50RareRolls, rareChanceNone, 2),
+                ("50 Illusion Very Rare", illusion50VeryRareRolls, veryRareChanceNone, 2),
+                ("75 Illusion Common", illusion75CommonRolls, commonChanceNone, 2),
+                ("75 Illusion Rare", illusion75RareRolls, rareChanceNone, 1),
+                ("75 Illusion Very Rare", illusion75VeryRareRolls, veryRareChanceNone, 1),
+                ("100 Illusion Common", illusion100CommonRolls, commonChanceNone, 1),
+                ("100 Illusion Rare", illusion100RareRolls, rareChanceNone, 1),
+                ("100 Illusion Very Rare", illusion100VeryRareRolls, veryRareChanceNone, 1));
+
+            PrintAverageInventory(
+                "Restoration Expert lists (college seller):",
+                ("00 Restoration Common", restoration00CommonRolls, commonChanceNone, 2),
+                ("00 Restoration Rare", restoration00RareRolls, rareChanceNone, 2),
+                ("00 Restoration Very Rare", restoration00VeryRareRolls, veryRareChanceNone, 2),
+                ("25 Restoration Common", restoration25CommonRolls, commonChanceNone, 2),
+                ("25 Restoration Rare", restoration25RareRolls, rareChanceNone, 2),
+                ("25 Restoration Very Rare", restoration25VeryRareRolls, veryRareChanceNone, 2),
+                ("50 Restoration Common", restoration50CommonRolls, commonChanceNone, 2),
+                ("50 Restoration Rare", restoration50RareRolls, rareChanceNone, 2),
+                ("50 Restoration Very Rare", restoration50VeryRareRolls, veryRareChanceNone, 2),
+                ("75 Restoration Common", restoration75CommonRolls, commonChanceNone, 2),
                 ("75 Restoration Rare", restoration75RareRolls, rareChanceNone, 1),
                 ("75 Restoration Very Rare", restoration75VeryRareRolls, veryRareChanceNone, 1),
                 ("100 Restoration Common", restoration100CommonRolls, commonChanceNone, 1),
                 ("100 Restoration Rare", restoration100RareRolls, rareChanceNone, 1),
                 ("100 Restoration Very Rare", restoration100VeryRareRolls, veryRareChanceNone, 1));
         }
+        
 
 
         // Helper methods.
