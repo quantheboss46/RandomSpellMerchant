@@ -9624,8 +9624,31 @@ namespace RandomSpellMerchantPatcher
                 ("100 Restoration Common", restoration100CommonRolls, commonChanceNone, 1),
                 ("100 Restoration Rare", restoration100RareRolls, rareChanceNone, 1),
                 ("100 Restoration Very Rare", restoration100VeryRareRolls, veryRareChanceNone, 1));
-        }
         
+            PrintAverageInventory(
+                "Vampire specialty:",
+                ("00 Vampire", vampireAlteration00Rolls + vampireConjuration00Rolls + vampireDestruction00Rolls + vampireIllusion00Rolls + vampireRestoration00Rolls, commonChanceNone, 1),
+                ("25 Vampire", vampireAlteration25Rolls + vampireConjuration25Rolls + vampireDestruction25Rolls + vampireIllusion25Rolls + vampireRestoration25Rolls, commonChanceNone, 1),
+                ("50 Vampire", vampireAlteration50Rolls + vampireConjuration50Rolls + vampireDestruction50Rolls + vampireIllusion50Rolls + vampireRestoration50Rolls, commonChanceNone, 1),
+                ("75 Vampire", vampireAlteration75Rolls + vampireConjuration75Rolls + vampireDestruction75Rolls + vampireIllusion75Rolls + vampireRestoration75Rolls, commonChanceNone, 1),
+                ("100 Vampire", vampireAlteration100Rolls + vampireConjuration100Rolls + vampireDestruction100Rolls + vampireIllusion100Rolls + vampireRestoration100Rolls, commonChanceNone, 1));
+
+            PrintAverageInventory(
+                "Vampire Hunter specialty:",
+                ("00 Vampire Hunter", vampireHunterRestoration00Rolls, commonChanceNone, 1),
+                ("25 Vampire Hunter", vampireHunterRestoration25Rolls, commonChanceNone, 1),
+                ("50 Vampire Hunter", vampireHunterRestoration50Rolls, commonChanceNone, 1),
+                ("75 Vampire Hunter", vampireHunterRestoration75Rolls, commonChanceNone, 1),
+                ("100 Vampire Hunter", vampireHunterRestoration100Rolls, commonChanceNone, 1));
+
+            PrintAverageInventory(
+                "Talvas specialty:",
+                ("00 Talvas", talvasAlteration00Rolls + talvasConjuration00Rolls + talvasDestruction00Rolls, commonChanceNone, 1),
+                ("25 Talvas", talvasAlteration25Rolls + talvasConjuration25Rolls + talvasDestruction25Rolls, commonChanceNone, 1),
+                ("50 Talvas", talvasAlteration50Rolls + talvasConjuration50Rolls + talvasDestruction50Rolls, commonChanceNone, 1),
+                ("75 Talvas", talvasAlteration75Rolls + talvasConjuration75Rolls + talvasDestruction75Rolls, commonChanceNone, 1),
+                ("100 Talvas", talvasAlteration100Rolls + talvasConjuration100Rolls + talvasDestruction100Rolls, commonChanceNone, 1));
+        }
 
 
         // Helper methods.
